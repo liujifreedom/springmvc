@@ -17,6 +17,4 @@ public class HelloController {
         //跳转到/WEB-INF/success.jsp
         return "success";
     }
-
-
 }
